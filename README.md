@@ -1,4 +1,4 @@
-# **Measuring AMI**
+# **Measuring Area Median Income in NYC**
 
 **Author**: John Hocknell  
 **Date**: Fall 2024
